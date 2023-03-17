@@ -1,0 +1,16 @@
+{
+  "name": "hexo-gpt-tags",
+  "version": "1.0.0",
+  "description": "Hexo plugin that generate tags from post by GPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kdplus",
+  "license": "ISC",
+  "dependencies": {
+    "hexo": "^6.3.0",
+    "hexo-util": "^3.0.1",
+    "openai": "^3.2.1"
+  }
+}
