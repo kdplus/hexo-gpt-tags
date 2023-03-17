@@ -1,10 +1,14 @@
 {
   "name": "hexo-gpt-tags",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Hexo plugin that generate tags from post by GPT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kdplus/hexo-gpt-tags.git"
   },
   "author": "kdplus",
   "license": "ISC",
